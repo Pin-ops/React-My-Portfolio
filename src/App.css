@@ -14,3 +14,7 @@ body{
   transform: scale(1.1) !important;
 
 }
+.cardBox:hover{
+  box-shadow: none !important;
+  cursor: pointer;
+}

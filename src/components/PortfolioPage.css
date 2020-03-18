@@ -1,0 +1,13 @@
+.port-card{
+    display: inline-block;
+    margin:0 20px;
+    transition: 0.3s;
+}
+.port-card:first-child{
+    color:#a8ca6b
+}
+.port-card:hover{
+    border-bottom: 3px solid #a8ca6b;
+    cursor: pointer;
+    color: #a8ca6b;
+}
